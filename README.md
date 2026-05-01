@@ -13,7 +13,7 @@
       <h2>💖 Sobre mí</h2>
       <p>
         Soy una persona curiosa, creativa y comprometida con seguir mejorando mis habilidades técnicas cada día.
-        Actualmente estoy enfocada en fortalecer mis conocimientos en desarrollo frontend, automatización de pruebas,
+        Actualmente estoy enfocada en fortalecer mis conocimientos en desarrollo de software, automatización de procesos,
         buenas prácticas de programación y herramientas modernas para crear proyectos más completos y profesionales.
       </p>
       <p>
