@@ -60,18 +60,6 @@
 
 ---
 
-<h2 align="center">🌷 Conectemos</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/camilandrea/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:camilandrea.sandoval@gmail.com">
-    <img src="https://img.shields.io/badge/Email-camilandrea.sandoval%40gmail.com-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 <!--
 <p align="center">
