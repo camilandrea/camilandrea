@@ -41,10 +41,10 @@
 
 ---
 
-<h2 align="center">🌱 Skills técnicas (Algunas actualmente aprendiendo)</h2>
+<h2 align="center">🌱 Skills técnicas</h2>
 
 <p align="center">
-  Desarrollo de Software · Automatización de procesos · TypeScript · Inteligencia Artificial · Agentes IA
+  Desarrollo de Software · Automatización de procesos · Bots
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 <p align="center">
   💻 Desarrollo Web &nbsp;|&nbsp;
-  🧪 Automatización de procesos &nbsp;|&nbsp;
+  🧪 Automatización de procesos con IA &nbsp;|&nbsp;
   🤖 Aprendiz de Inteligencia Artificial &nbsp;|&nbsp;
   📚 Aprendizaje continuo
 </p>
