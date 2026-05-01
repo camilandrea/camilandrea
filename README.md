@@ -56,21 +56,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=camilandrea&show_icons=true&theme=rose_pine&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilandrea&layout=compact&theme=rose_pine&hide_border=true" 
-    height="160"
-  />
-</p>
-
----
-
 <h2 align="center">🌷 Conectemos</h2>
 
 <p align="center">
