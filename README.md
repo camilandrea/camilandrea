@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-bongocat.jpg
+![Cat1](https://raw.githubusercontent.com/camilandrea/camilandrea/main/bongocat.jpg)
