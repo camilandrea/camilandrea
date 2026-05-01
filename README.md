@@ -32,7 +32,11 @@
 <h2 align="center">🛠️ Tecnologías que estoy aprendiendo y usando</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
 </p>
 
 ---
